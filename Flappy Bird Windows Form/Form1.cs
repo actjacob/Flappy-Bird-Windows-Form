@@ -7,7 +7,7 @@ namespace Flappy_Bird_Windows_Form
         int pipeSpeed = 8;
         int gravity = 15;
         int score = 0;
-        int pipeGap = 150;
+        int pipeGap = 140;
         Random rand = new Random();
 
         public Form1()
